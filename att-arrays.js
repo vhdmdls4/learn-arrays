@@ -6,9 +6,11 @@ console.log(nomes)
 
 nomes.push("Rodrigo")
 
+console.log(nomes)
+
 animaisDoAquario = ["🐋 1", "🐙 2", "🐬 3", "🦈 4"]
 
 animaisDoAquario.splice(1, 3, "🐠 5")
-// animaisDoAquario.splice(3, 2, "🐟 6")
+animaisDoAquario.splice(3, 2, "🐟 6")
 
 console.log(animaisDoAquario)
