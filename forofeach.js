@@ -20,4 +20,17 @@ Utilizar a estrutura for e entender seu funcionamento:
 O for é constituído de três expressões: criação da variável de controle; condição de execução; modificação da variável de controle. Essas três expressões juntas definem quantas vezes o bloco do for será executado.
 Utilizar a estrutura for of e entender a diferença em relação ao for:
 O for of sempre é utilizado para percorrer todos os elementos de um array, do início ao fim. Para esses casos, o for of é mais conciso que o for.
-*/ 
+*/
+const notasL = [10, 6.5, 8, 7.5];
+
+let sum = 0;
+
+//no forEach o primeiro índice da função callback que vai ser executada para cada elemento do array, sendo que pode receber de 1 a 3 argumentos; o elemento, o índice e o array atual, respectivamente
+notasL.forEach(function (notas, indice) {
+  sum += notas;
+  console.log(indice);
+});
+
+let media = sum / notasL.length;
+
+console.log(`A media é ${media}`);

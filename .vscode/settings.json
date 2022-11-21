@@ -34,5 +34,8 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
 }
