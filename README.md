@@ -1,6 +1,6 @@
 # Learning arrays
 
-<img src="assets/array-methods-javascript.jpeg" alt="imagem ">
+<img src="assets/array-methods-javascript.jpeg" alt="imagem " width="250px">
 
 > Basicamente atualizando meus conhecimentos de array e postando aqui no github, também mantenho anotados em post'it na parede para facilitar visualização. 
 
