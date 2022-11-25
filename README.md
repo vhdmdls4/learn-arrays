@@ -1,6 +1,6 @@
 # Learning arrays
 
-<img src="../assets/array-methods-javascript.jpeg" alt="imagem ">
+<img src="assets/array-methods-javascript.jpeg" alt="imagem ">
 
 > Basicamente atualizando meus conhecimentos de array e postando aqui no github, também mantenho anotados em post'it na parede para facilitar visualização. 
 
@@ -42,7 +42,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/98192244?v=4" width="100px;" alt="Foto de Victor Hugo no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Victor Hugo</b>
         </sub>
       </a>
     </td>
