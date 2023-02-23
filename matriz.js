@@ -13,3 +13,4 @@ for (i = 0; i < notasGerais.length; i++) {
 }
 media /= notasGerais.length
 console.log(media)
+
